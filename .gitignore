@@ -1,0 +1,17 @@
+# Ignore compiled class files
+/out/
+/out/production/
+/out/production/Zomato/
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
